@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm Programmer, Web Developer...<br><br>
+👨‍💻 I'm Programmer, Web Developer, Full-Stack Dev...<br><br>
 
 
 ## 🌐 Socials:
